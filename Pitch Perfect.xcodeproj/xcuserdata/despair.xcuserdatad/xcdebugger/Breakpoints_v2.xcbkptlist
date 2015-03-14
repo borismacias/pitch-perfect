@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pitch Perfect/RecordedAudio.swift"
+            timestampString = "447941937.029628"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "RecordedAudio"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Perfect.RecordedAudio.filePathUrl.getter : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSURL&gt;"
+                  moduleName = "Pitch Perfect"
+                  urlString = "file:///Users/despair/Documents/IOS%20Apps/Pitch%20Perfect/Pitch%20Perfect/RecordedAudio.swift"
+                  timestampString = "447941937.133362"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Perfect.RecordedAudio.filePathUrl.setter : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSURL&gt;"
+                  moduleName = "Pitch Perfect"
+                  urlString = "file:///Users/despair/Documents/IOS%20Apps/Pitch%20Perfect/Pitch%20Perfect/RecordedAudio.swift"
+                  timestampString = "447941937.135685"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Perfect.RecordedAudio.filePathUrl.materializeForSet : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSURL&gt;"
+                  moduleName = "Pitch Perfect"
+                  urlString = "file:///Users/despair/Documents/IOS%20Apps/Pitch%20Perfect/Pitch%20Perfect/RecordedAudio.swift"
+                  timestampString = "447941937.135998"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "25">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Perfect.RecordedAudio.init (Pitch_Perfect.RecordedAudio.Type)() -&gt; Pitch_Perfect.RecordedAudio"
+                  moduleName = "Pitch Perfect"
+                  urlString = "file:///Users/despair/Documents/IOS%20Apps/Pitch%20Perfect/Pitch%20Perfect/RecordedAudio.swift"
+                  timestampString = "447941937.136851"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pitch Perfect/ViewController.swift"
+            timestampString = "448051128.296777"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
